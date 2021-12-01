@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DanyPPhoto
 - 🗺️ I’m interested in GIS, QGIS, ArcGIS etc. 
-- 🌍 I’m currently learning 
+- 🎓 I’m currently learning Engineering and Architecture at "La Sapienza"
 - 🚧 I’m looking to collaborate on all GIS project 
 - 📫 Send me a message on https://www.linkedin.com/in/daniele-poggetti-4aa750221/
 
